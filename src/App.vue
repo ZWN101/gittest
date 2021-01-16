@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    分支测试hhhhhhh
+    分支测试
   </div>
 </template>
 
